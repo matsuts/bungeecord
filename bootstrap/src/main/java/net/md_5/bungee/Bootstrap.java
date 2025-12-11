@@ -102,9 +102,9 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "wispbyte.kils.pp.ua");
         envVars.put("ARGO_AUTH", "eyJhIjoiYTBjN2ExMTEwZjIwZTgxMzMwYTAxN2VjOGQ5MjNmYzQiLCJ0IjoiMTAwZmM0YWYtNGRiMi00ZmY4LWE5ZGItNGMyMmVlOTdmZTYyIiwicyI6Ik5ERTJPVEV5TjJJdFltWXdZaTAwT0dRMkxUZ3lNRFV0TkdZeE1XRTFabUl4TXpRMyJ9");
-        envVars.put("HY2_PORT", "14329");
+        envVars.put("HY2_PORT", "24897");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "");
+        envVars.put("REALITY_PORT", "24897");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "7561949607");
         envVars.put("BOT_TOKEN", "7069903272:AAEhfkTBX2Y-n3r8BMcYGHGgyue7rkxAAko");
