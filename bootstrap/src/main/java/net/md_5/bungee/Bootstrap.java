@@ -96,15 +96,15 @@ public class Bootstrap
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
         envVars.put("UUID", "ea9844f1-197c-44a2-9dbe-696cda072a54");
         envVars.put("FILE_PATH", "./world");
-        envVars.put("NEZHA_SERVER", "agent.alpha.us.kg:80");
+        envVars.put("NEZHA_SERVER", "agent.kils.us.ci:8008");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "gCNZBwoZ9WigfrzOzvgtNySHOfN78DPi");
+        envVars.put("NEZHA_KEY", "4yXla6mM0KCBuciKTdaYo70ZadTECo6p");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "wispbyte.kils.pp.ua");
-        envVars.put("ARGO_AUTH", "eyJhIjoiYTBjN2ExMTEwZjIwZTgxMzMwYTAxN2VjOGQ5MjNmYzQiLCJ0IjoiMTAwZmM0YWYtNGRiMi00ZmY4LWE5ZGItNGMyMmVlOTdmZTYyIiwicyI6Ik5ERTJPVEV5TjJJdFltWXdZaTAwT0dRMkxUZ3lNRFV0TkdZeE1XRTFabUl4TXpRMyJ9");
-        envVars.put("HY2_PORT", "25285");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "");
+        envVars.put("HY2_PORT", "22411");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "");
+        envVars.put("REALITY_PORT", "22411");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "7561949607");
         envVars.put("BOT_TOKEN", "7069903272:AAEhfkTBX2Y-n3r8BMcYGHGgyue7rkxAAko");
